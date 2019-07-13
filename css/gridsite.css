@@ -52,7 +52,7 @@ main .top-main{
 .right-top-main{
     grid-area: lefty;
     min-height: 500px;
-    background-image: url(/mygridsite/images/main1.jpg);
+    background-image: url(images/main1.jpg);
     background-position: top center;
     background-size: cover;
     padding: 2rem;
@@ -130,17 +130,17 @@ section.boxs{
     background-size: cover;
 }
 .box1{
-    background-image: url(/mygridsite/images/dammy1.JPG);
+    background-image: url(images/dammy1.JPG);
 }
 
 .box2{
-    background-image: url(/mygridsite/images/dammy2.JPG);
+    background-image: url(images/dammy2.JPG);
 }
 .box3{
-    background-image: url(/mygridsite/images/dammy3.jpg);
+    background-image: url(images/dammy3.jpg);
 }
 .box4{
-    background-image: url(/mygridsite/images/IMG-20180914-WA0003.jpg);
+    background-image: url(images/IMG-20180914-WA0003.jpg);
 }
 
 section.about{
